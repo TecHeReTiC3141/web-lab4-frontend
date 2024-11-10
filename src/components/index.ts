@@ -1,5 +1,4 @@
-export * from './LoginForm.tsx'
-export * from './RegisterForm.tsx'
+export * from './forms'
 export * from './Header.tsx'
 export * from './Footer.tsx'
 export * from './ThemeSwitcher.tsx'

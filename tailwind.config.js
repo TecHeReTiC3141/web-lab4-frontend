@@ -13,8 +13,10 @@ export default {
       colors: {
         "light-primary": colors.gray[100],
         "light-primary-content": colors.gray[800],
+        "light-secondary": colors.blue[700],
         "dark-primary": colors.gray[800],
-        "dark-primary-content": colors.gray[100]
+        "dark-primary-content": colors.gray[100],
+        "dark-secondary": colors.purple[300]
       }
     },
   },
