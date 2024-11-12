@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.form {
+    @apply mt-4 mb-4 border border-dark-primary dark:border-light-primary rounded-2xl flex flex-col items-center gap-y-4 p-2 pb-3 w-80;
+}
